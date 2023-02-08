@@ -1,5 +1,13 @@
 # DEX dev
 
+
+<p float="left">
+<img width="540" alt="1" src="https://user-images.githubusercontent.com/41688158/217569608-48fcc2e8-6488-4c88-b78b-b2b0b7ed969e.png">
+<img width="150" alt="2" src="https://user-images.githubusercontent.com/41688158/217569661-cc15cf21-49c1-451a-acfd-897d09bdb09d.png">
+<img width="150" alt="2" src="https://user-images.githubusercontent.com/41688158/217569695-b4a82d74-00e4-458f-80c2-0961c1677432.png">
+<img width="550" alt="2" src="https://user-images.githubusercontent.com/41688158/217569744-28369668-d4a3-4030-a4fb-4bc6148a0326.png">
+</p>
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
